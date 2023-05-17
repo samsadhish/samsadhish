@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samsadhish
 - 👀 I’m interested in ... Coding 
-- 🌱 I’m currently learning ...HTML and CSS
+- 🌱 I’m a Full Stack Developer...
 - 💞️ I’m looking to collaborate on ...New IT company 
 - 📫 How to reach me ...8668077238
 
